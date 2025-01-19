@@ -1,4 +1,4 @@
-class Solution {
+class ReverseInteger {
     public int reverse(int x) {
         int number = x;
         int reverse = 0;
